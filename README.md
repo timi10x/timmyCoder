@@ -5,12 +5,14 @@ val timmyCoder by developer {
     fullName = "Olatoye Daniel"
     displayName = "timmyCoder"
     role = Mobile Developer
+    
+    tech("Kotlin", "Android", "KMM", "Jetpack Compose", "iOS", "SwiftUI")
 
     contacts {
         twitter(username = "@timmyCoder")
         linkedin(username = "https://www.linkedin.com/in/daniel-olatoye/")
         email(address = "olatoyedan@gmail.com")
-    }
+    }  
 }
 ```
 
