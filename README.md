@@ -3,7 +3,7 @@
 ```kotlin
 val timmyCoder by developer {
     fullName = "Olatoye Daniel"
-    displayName = timmyCoder
+    displayName = "timmyCoder"
     role = Mobile Developer
 
     contacts {
