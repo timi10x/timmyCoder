@@ -7,7 +7,7 @@ val timmyCoder by developer {
     role = Mobile Developer
 
     contacts {
-        twitter(username = timmyCoder)
+        twitter(username = "@timmyCoder")
         linkedin(username = "https://www.linkedin.com/in/daniel-olatoye/")
         email(address = "olatoyedan@gmail.com@gmail.com")
     }
