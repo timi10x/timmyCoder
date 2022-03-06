@@ -9,7 +9,7 @@ val timmyCoder by developer {
     contacts {
         twitter(username = "@timmyCoder")
         linkedin(username = "https://www.linkedin.com/in/daniel-olatoye/")
-        email(address = "olatoyedan@gmail.com@gmail.com")
+        email(address = "olatoyedan@gmail.com")
     }
 }
 ```
