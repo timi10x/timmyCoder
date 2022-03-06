@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+```kotlin
+val timmyCoder by developer {
+    fullName = "Olatoye Daniel"
+    displayName = timmyCoder
+    role = Mobile Developer
+
+    contacts {
+        twitter(username = timmyCoder)
+        linkedin(username = "https://www.linkedin.com/in/daniel-olatoye/")
+        email(address = "olatoyedan@gmail.com@gmail.com")
+    }
+}
+```
+
 <!--
 **timmyCoder/timmyCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
