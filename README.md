@@ -6,7 +6,7 @@ val timmyCoder by developer {
     displayName = "timmyCoder"
     role = Mobile Developer
     
-    tech("Kotlin", "Android", "KMM", "Jetpack Compose", "iOS", "SwiftUI")
+    tech("Kotlin", "Android", "KMM", "Jetpack Compose", "iOS", "SwiftUI", "Go")
 
     contacts {
         twitter(username = "@timmyCoder")
