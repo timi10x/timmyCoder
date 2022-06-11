@@ -8,11 +8,11 @@ val timmyCoder by developer {
     
     tech("Kotlin", "Android", "KMM", "KMP", "Jetpack Compose", "iOS", "SwiftUI", "Go")
 
-    contacts {
+    <!-- contacts {
         twitter(username = "@timmyCoder")
         linkedin(username = "https://www.linkedin.com/in/daniel-olatoye/")
         email(address = "olatoyedan@gmail.com")
-    }  
+    }  -->
 }
 ```
 
