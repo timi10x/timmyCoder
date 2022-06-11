@@ -7,12 +7,6 @@ val timmyCoder by developer {
     role = Mobile Developer
     
     tech("Kotlin", "Android", "KMM", "KMP", "Jetpack Compose", "iOS", "SwiftUI", "Go")
-
-    <!-- contacts {
-        twitter(username = "@timmyCoder")
-        linkedin(username = "https://www.linkedin.com/in/daniel-olatoye/")
-        email(address = "olatoyedan@gmail.com")
-    }  -->
 }
 ```
 
