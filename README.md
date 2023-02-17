@@ -2,7 +2,6 @@
 
 ```kotlin
 val timmyCoder by developer {
-    fullName = "Olatoye Daniel"
     displayName = "timmyCoder"
     role = Mobile Developer
     tech("Kotlin", "Android", "KMM", "KMP", "Jetpack Compose", "iOS", "SwiftUI", "Go")
